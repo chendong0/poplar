@@ -24,6 +24,12 @@
       "text": "副词",
       "color": "#ff9d61",
       "borderColor": "#b26d43"
+    },
+    {
+      "id": 66,
+      "text": "逻辑",
+      "color": "#00FF00",
+      "borderColor": "#FF0000"
     }
   ],
   "labels": [
@@ -40,6 +46,10 @@
     {
       "id": 2,
       "text": "是...的动作"
+    },
+    {
+      "id": 3,
+      "text": "Aad Or Not"
     }
   ],
   "connections": []
